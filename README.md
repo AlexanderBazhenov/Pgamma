@@ -1,4 +1,8 @@
 # Pgamma
 nd-dgamma data and processing
 
-load .mat to plot a set of measures
+load PgammaPhComptonT123.mat 
+
+plot a set of measures --- PlotJKOskorbinMu.m
+
+
